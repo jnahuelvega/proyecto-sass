@@ -1,0 +1,12 @@
+ul {
+  text-decoration: none;
+}
+ul li {
+  display: flex;
+  justify-content: center;
+}
+ul li .link {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=estilo.css.map */
