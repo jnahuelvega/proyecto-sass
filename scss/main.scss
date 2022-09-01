@@ -1,11 +1,4 @@
-ul{
-    text-decoration: none;
-    li{
-        display: flex;
-        justify-content: center;
-        .link{
-            text-decoration: none;
-        }
-    }
-
-}
+@import"../layout/header";
+@import"../layout/sobrenosotros";
+@import"../layout/galery";
+@import"../layout/footer"
